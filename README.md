@@ -24,10 +24,10 @@ The API endpoint used for fetching prayer times is `https://api.dreamyoak.xyz/pr
 https://api.dreamyoak.xyz/prayer/YOUR_IP_ADDRESS
 ```
 
-For example, if your IP address is `128.180.76.101`, the full API URL would be:
+For example, if your IP address is `31.216.107.80`, the full API URL would be:
 
 ```
-https://api.dreamyoak.xyz/prayer/128.180.76.101
+https://api.dreamyoak.xyz/prayer/31.216.107.80
 ```
 
 ## Features
