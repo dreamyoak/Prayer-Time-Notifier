@@ -49,7 +49,7 @@ https://api.dreamyoak.xyz/prayer/128.180.76.101
 1. Clone this repository using the following command:
    
 ```
-git clone https://github.com/your-username/prayer-time-alert.git
+git clone https://github.com/dreamyoak/Prayer-Time-Notifier.git
 ```
 
 2. Navigate to the project directory:
